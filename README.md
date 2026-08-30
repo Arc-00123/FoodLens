@@ -5,6 +5,9 @@ FoodLens AI is an intelligent nutrition assistant that combines **OCR (Optical C
 # Live link
 👉 https://foodlens-ai-henna.vercel.app/
 
+## Live Demo
+👉👉 https://docs.google.com/presentation/d/1CluXfnQbtXh9fDFYEUXBorHW1ZFebtgyfrWyDWLlqN8/edit?usp=sharing
+
 ## 🚀 Features
 
 *   **Live Mode**: Real-time camera ingredient scanning and analysis.
