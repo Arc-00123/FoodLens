@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pytesseract
+python-dotenv
+supabase
+openai
+elevenlabs
+edge-tts
